@@ -5,24 +5,24 @@
 
 ## 📢Introduce myself
 
-- 🙂I'm Amal
+- akshay here 🗣️
 - 🚩I'm a beginner in this field
-- 📍From pathripala,palakkad,Kerala,🇮🇳
-- 🏫Students
+- 📍From alapy,kerala
+- 🏫Student
 
 <div align="center">
-  <img src=http://telegra.ph/file/68809ff84d7cd4447a76e.jpg>
+  
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇👇
+
+
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JyE9edUo3JUBa38nVTrfHc)
+
   <div align="center">
     <br>
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
+  [![Readme Card](https://github.com/Blackbunny05/DXTROX_V1/blob/master/README.md)](https://github.com/amal-dx/DXTROX_V1)
   </div>
     
 ## Setup
@@ -54,12 +54,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 <div align="center">
-    
-  [![DXTROX](https://github.com/amal-dx.png?size=200)](https://github.com/amal-dx) | [![TERROR-BOY](https://github.com/terror-boy.png?size=200)](https://github.com/terror-boy)  
-----|----
-[DXTROX](https://github.com/amal-dx)  | [TERROR-BOY](https://github.com/terror-boy)  
-Base, Bug Fixes, Modules | Base, Bug Fixes, Modules 
-  </div>
+   
+
 
 
   
